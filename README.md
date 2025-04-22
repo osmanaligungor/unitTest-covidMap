@@ -1,13 +1,13 @@
 <h1>Covid Map</h1>
   
-<p>This project is a modern Covid Map project built using React and Vite. It features a user-friendly design and is developed with the latest technologies, utilizing various npm and React libraries to create a modern structure.JSON Server was used for the database.</p>
+<p>This project is a modern Covid Map project built using React. It features a user-friendly design and is developed with the latest technologies, utilizing various npm and React libraries to create a modern structure.RapidAPI was used for the API.</p>
 
 <h1>Features</h1>
 
 <p>100% Test Coverage</p>
 <p>Responsive Layout: In this way, a compatible appearance is provided even on different screen sizes.</p>
 <p>Modern Design.</p>
-<p>The project's unit tests were implemented using React Testing Library and Jest.</p>
+<p>The project's unit tests were implemented using React Testing Library</p>
 
 <h1>Technologies Used</h1>
 
@@ -27,7 +27,7 @@
 <li>react-toastify</li>
 <li>react-testing-library</li>
 <li>redux-mock-store</li>
-<li>jest</li>
 
 <h1>Preview</h1>
 
+![Screen Recording 2025-04-14 at 14 25 40](https://github.com/user-attachments/assets/2a59f6ed-4cfa-4c21-85b5-ef7a2ecaf654)
