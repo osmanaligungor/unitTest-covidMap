@@ -1,53 +1,33 @@
-# Gerekli Kütüphaneler
+<h1>Covid Map</h1>
+  
+<p>This project is a modern Covid Map project built using React and Vite. It features a user-friendly design and is developed with the latest technologies, utilizing various npm and React libraries to create a modern structure.JSON Server was used for the database.</p>
 
-- @testing-library/jest-dom
-- @testing-library/react
-- @testing-library/user-event@14.0
-- axios@^0.27.2
-- millify
-- @reduxjs/toolkit
-- redux-thunk
-- react-simple-maps
-- react-router-dom
-- react-icons
-- tailwindcss
+<h1>Features</h1>
 
-# Kaynaklar
+<p>100% Test Coverage</p>
+<p>Responsive Layout: In this way, a compatible appearance is provided even on different screen sizes.</p>
+<p>Modern Design.</p>
+<p>The project's unit tests were implemented using React Testing Library and Jest.</p>
 
-- API : https://rapidapi.com/api-sports/api/covid-193/playground/apiendpoint_2feca6f0-0f58-40b7-9196-98c45c7d5083
+<h1>Technologies Used</h1>
 
-- GEO.JSON : https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json
+<li>HTML5</li>
+<li>CSS3</li>
+<li>tailwindcss</li>
+<li>JAVASCRIPT</li>
+<li>REACT</li>
+<li>VITE</li>
+<li>axios</li>
+<li>millify</li>
+<li>redux-thunk</li>
+<li>react-simple-maps</li>
+<li>@reduxjs/toolkit</li>
+<li>react-icons</li>
+<li>react-router-dom</li>
+<li>react-toastify</li>
+<li>react-testing-library</li>
+<li>redux-mock-store</li>
+<li>jest</li>
 
-# Selector Methods
+<h1>Preview</h1>
 
-- Ekrandaki elementleri almak için kullandığımız seçici methodları 3 ana parçadan oluşur.
-
-1. Method:
-
-- Get: Ekranda element yoksa hata verir.
-- Query: Ekranda element yoksa hata vermez null döndürür.
-- Find: Ekrana asenkron olarak basılan elementleri alır.
-
-2. All ifadesi:
-
-- Eğerki ekrandan tek bir methodla birden fazla eleman almak istiyorsak kullandığımız methodun devamına "All" ifadesi ekleriz.
-- All kullanırsak dönen cevap her zaman dizi içerisinde olur.
-- [ele1,ele2,ele3] - [ele1]
-- queryAllBy | getAllBy | findAllBy
-
-3. Query:
-
-- Hangi yötemle elementi seçiceğimiz belirleyen method
-- ByRole
-- ByLabelText
-- ByPlaceholderText
-- ByText
-- ByDisplayValue
-- ByAltText
-- ByTitle
-- ByTestId
-
-# 100% Test Coverage
-
-- Proje %100 test edilmiştir demektir.
-# unitTest-covidMap
